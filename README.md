@@ -6,7 +6,7 @@
 	<p>
         Soy un <strong>desarrollador Full Stack</strong> con +7 años de experiencia en la
         realizacion de aplicaciones web y multiservicos.
-        Mi objetivo este año 2023 es poder aprender nuevas tecnologias y compartir con
+        Mi objetivo es poder aprender nuevas tecnologias y compartir con
         toda la comunidad de developers mis conocimientos y aplicaciones.
     </p>
 </div>
