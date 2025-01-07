@@ -4,7 +4,7 @@
 
 <div>
 	<p>
-        Soy un <strong>desarrollador Full Stack</strong> con +7 años de experiencia en la
+        Soy un <strong>desarrollador Full Stack</strong> con +9 años de experiencia en la
         realizacion de aplicaciones web y multiservicos.
         Mi objetivo es poder aprender nuevas tecnologias y compartir con
         toda la comunidad de developers mis conocimientos y aplicaciones.
